@@ -10,4 +10,4 @@ transfer_acc: Number of ethereum
 _arg (address): Address of Receiver
 
 Ropsnet Test Link:
-https://ropsten.etherscan.io/address/0x0ab747c172cccc0b3353d81ce30253e57cc0c5ac
+https://ropsten.etherscan.io/address/0x0d0bbb847e8ac3cb61f4a55a70175df6e02f5938
